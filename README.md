@@ -23,4 +23,3 @@ This project was developed with the following technologies:
 -  [Kotlin](https://kotlinlang.org/)
 -  [Android Studio](https://developer.android.com/studio)
 
-Made by [Walter Junior!](https://www.linkedin.com/in/walter-paes/)
